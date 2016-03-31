@@ -6,6 +6,10 @@ gem "lita-google-images"
 gem "lita-animate"
 gem "lita-karma"
 gem "lita-wikipedia"
+gem "lita-ai"
+gem "lita-catfacts"
+gem "lita-catgif"
+gem "lita-computer-dogs"
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
 
